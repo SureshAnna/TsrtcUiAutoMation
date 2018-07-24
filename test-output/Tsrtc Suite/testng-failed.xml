@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Tsrtc Suite]">
+  <test name="Registration Test(failed)">
+    <classes>
+      <class name="com.tsrtc.registration.testscripts.RegistrationTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="registrationTest"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.tsrtc.registration.testscripts.RegistrationTest -->
+    </classes>
+  </test> <!-- Registration Test(failed) -->
+</suite> <!-- Failed suite [Tsrtc Suite] -->

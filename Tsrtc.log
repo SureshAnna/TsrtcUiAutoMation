@@ -1,0 +1,98 @@
+2018-Jul-18 12:45:12,128 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-18 12:45:12,130 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-18 12:45:12,130 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-18 12:47:33,516 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-18 12:47:33,517 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-18 12:47:33,517 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-20 21:55:37,033 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-20 21:55:37,050 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-20 21:55:37,052 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-21 05:33:07,211 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-21 05:33:07,245 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-21 05:33:07,258 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-21 05:33:07,703 [main] com.tsrtc.utils.BrowserUtil 
+  ERROR Exception :: {}java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
+2018-Jul-21 05:33:09,131 [main] com.tsrtc.base.TsrtcBase 
+  ERROR Exception :: {}java.lang.NullPointerException
+2018-Jul-21 05:33:09,133 [main] com.tsrtc.base.TsrtcBase 
+  ERROR Exception :: {}java.lang.NullPointerException
+2018-Jul-21 05:33:56,312 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-21 05:33:56,313 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-21 05:33:56,314 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-21 05:35:17,937 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-21 05:35:17,939 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-21 05:35:17,939 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-21 05:45:04,076 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-21 05:45:04,078 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-21 05:45:04,078 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-21 05:45:08,541 [main] com.tsrtc.utils.BrowserUtil 
+  ERROR Exception :: {}org.openqa.selenium.SessionNotCreatedException: Unexpected error launching Internet Explorer. Browser zoom level was set to 125%. It should be set to 100%
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'LAPTOP-GIDCD0H3', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: InternetExplorerDriver
+remote stacktrace: 
+2018-Jul-21 05:45:09,006 [main] com.tsrtc.base.TsrtcBase 
+  ERROR Exception :: {}java.lang.NullPointerException
+2018-Jul-21 05:45:09,008 [main] com.tsrtc.base.TsrtcBase 
+  ERROR Exception :: {}java.lang.NullPointerException
+2018-Jul-21 05:47:25,312 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-21 05:47:25,314 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-21 05:47:25,314 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-21 05:47:27,216 [main] com.tsrtc.utils.BrowserUtil 
+  ERROR Exception :: {}org.openqa.selenium.SessionNotCreatedException: Unexpected error launching Internet Explorer. Browser zoom level was set to 125%. It should be set to 100%
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'LAPTOP-GIDCD0H3', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: InternetExplorerDriver
+remote stacktrace: 
+2018-Jul-21 05:47:27,658 [main] com.tsrtc.base.TsrtcBase 
+  ERROR Exception :: {}java.lang.NullPointerException
+2018-Jul-21 05:47:27,660 [main] com.tsrtc.base.TsrtcBase 
+  ERROR Exception :: {}java.lang.NullPointerException
+2018-Jul-21 05:48:44,259 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-21 05:48:44,260 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-21 05:48:44,260 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-23 12:28:49,499 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-23 12:28:49,502 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-23 12:28:49,503 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-24 15:08:36,047 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-24 15:08:36,059 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-24 15:08:36,065 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
+2018-Jul-24 17:45:01,262 [main] com.tsrtc.utils.DirectoryUtil 
+  INFO  File is not deleted
+2018-Jul-24 17:45:01,262 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read main properties
+2018-Jul-24 17:45:01,262 [main] com.tsrtc.utils.PropertiesUtil 
+  INFO  Read test properties
